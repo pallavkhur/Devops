@@ -1,0 +1,2 @@
+login into server
+ssh -i penfilename username@server_ip_address
